@@ -13,4 +13,14 @@ Event Handling, Introducing Swing:
 Two Event Handling Mechanisms, The Delegation Event Model, Event Classes, Sources of Events, Event Listener Interfaces, Using the Delegation Event Model, Adapter Classes,  Inner Classes. Swing: Introducing Swing.  
 Lambda Expressions: Fundamentals, Block Lambda expressions, Passing Lambda Expressions as Argument, Lambda Expressions and Exceptions, Method References. 
 
+# How to install Java
+
+1. Install the JDK if you don't have installed it, download the JDK and install it. https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+2. Set path of the jdk/bin directory. http://www.javatpoint.com/how-to-set-path-in-java https://www.javatpoint.com/how-to-set-path-in-java
+Go to MyComputer properties -> advanced tab -> environment variables -> new tab of user variable -> write path in variable name -> write path of bin folder in variable value -> ok -> ok -> ok
+3. Create the Java program
+4. Compile and run the Java program
+
+# Download and install Eclipse IDE
+https://www.eclipse.org/downloads/
 
